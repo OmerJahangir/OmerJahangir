@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerjahangir" alt="omerjahangir" /></a> </p>
 
-- 🔭 I’m currently working on [Esim Card USA and White Label(eSim Provider)](https://play.google.com/store/apps/details?id=com.activatewireless.esim_card)
+- 🔭 I’m currently working on [Esim Card USA and eSim Provider](https://play.google.com/store/apps/details?id=com.activatewireless.esim_card)
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
