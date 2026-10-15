@@ -1,34 +1,66 @@
-![MasterHead](https://cdn.pixabay.com/photo/2024/05/21/19/58/code-8779057_1280.jpg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E91E63,100:2196F3&height=190&section=header&text=Omer%20Jahangir&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20Flutter%20Engineer&descSize=20&descAlignY=58" alt="Omer Jahangir — Senior Flutter Engineer" />
 
-<h1 align="center">Hi 👋, I'm Omer Jahangir</h1>
-<h3 align="center">Crafting Cross-Platform Magic with Flutter</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerjahangir&label=Profile%20views&color=0e75b6&style=flat" alt="omerjahangir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerjahangir" alt="omerjahangir" /></a> </p>
-
-- 🔭 I’m currently working on [Esim Card USA and eSim Provider](https://play.google.com/store/apps/details?id=com.activatewireless.esim_card)
-
-- 🌱 I’m currently learning **Flutter, Dart**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **omerjahangir31@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sqw7bGsOyMpx2XsF5-paM6spD7_AyBWB/view?usp=sharing](https://drive.google.com/file/d/1sqw7bGsOyMpx2XsF5-paM6spD7_AyBWB/view?usp=sharing)
-
-- ⚡ Fun fact **Flutter: where widgets become wonders!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omer-jahangir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-jahangir" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E91E63&center=true&vCenter=true&width=560&lines=Building+production+apps+for+iOS%2C+Android+%26+Web;eSIM%2C+VoIP%2C+POS+and+food-tech+apps+in+the+stores;Author+of+open-source+Flutter+packages;Clean+code+meets+creative+design" alt="Typing intro" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://omerjahangir.github.io/"><img src="https://img.shields.io/badge/Portfolio-omerjahangir.github.io-E91E63?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/omer-jahangir"><img src="https://img.shields.io/badge/LinkedIn-omer--jahangir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:omerjahangir31@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2196F3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1phlbWc7THeZVtNHYUZLT4uzEeZeH6o_p/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-0D47A1?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download CV" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerjahangir&show_icons=true&locale=en&layout=compact" alt="omerjahangir" /></p>
+## 👋 About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omerjahangir&show_icons=true&locale=en" alt="omerjahangir" /></p>
+I'm a **Senior Flutter Engineer** with 3+ years of building smooth, responsive, cross-platform apps for **iOS, Android, web and desktop**. I care about pixel-perfect UI, clean architecture and performance, and I own the whole lifecycle — from design and integration to testing and store release.
+
+- 📱 Shipping apps across **telecom (eSIM & VoIP), restaurant POS, food discovery and productivity**
+- 🔌 Deep in **Firebase, REST APIs, real-time sync and call SDKs** (Vonage, Telnyx)
+- 📦 Maintaining **open-source Flutter packages** on pub.dev
+- 💬 Ask me about **Flutter architecture, animations and app-store delivery**
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,sqlite,androidstudio,vscode,git,github,postman,figma&perline=12" alt="Flutter, Dart, Kotlin, Swift, Firebase, SQLite, Android Studio, VS Code, Git, GitHub, Postman, Figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/State-Provider%20·%20GetX%20·%20BLoC-E91E63?style=flat-square" alt="State management" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20·%20MVVM-2196F3?style=flat-square" alt="Architecture" />
+  <img src="https://img.shields.io/badge/Payments-Stripe%20·%20Converge-0D47A1?style=flat-square" alt="Payments" />
+  <img src="https://img.shields.io/badge/Web-Jaspr-000515?style=flat-square&logo=dart" alt="Jaspr" />
+</p>
+
+## 🚀 Apps in the stores
+
+| App | What it does | Get it |
+| --- | --- | --- |
+| **eSIM Card: Travel SIM & Data** | Virtual numbers, travel eSIM data plans and VoIP calls in one app | [App Store](https://apps.apple.com/us/app/esim-card-virtual-sim-voip/id1627173767) · [Google Play](https://play.google.com/store/apps/details?id=com.activatewireless.esim_card) |
+| **Playlogs** | Track games, movies & TV — log progress, rate, review | [App Store](https://apps.apple.com/us/app/playlogs/id6795505473) · [Google Play](https://play.google.com/store/apps/details?id=net.playlogs) |
+| **Khana POS** | Restaurant POS: orders & KOT, billing, inventory, multi-branch reports | [App Store](https://apps.apple.com/us/app/khana-pos/id6808214281) · [Google Play](https://play.google.com/store/apps/details?id=com.khanapos) |
+| **BitesGrab** | Discover nearby restaurants, menus and one-tap Call / WhatsApp | [App Store](https://apps.apple.com/us/app/bitesgrab/id6814419597) · [Google Play](https://play.google.com/store/apps/details?id=com.bitesgrab) |
+| **Temnect** | Team, project and task management workspace | [Google Play](https://play.google.com/store/apps/details?id=com.temnect) |
+| **Phonico Mobile** | Contract-free prepaid eSIM with 5G data and WiFi calling | [App Store](https://apps.apple.com/us/app/phonico-prepaid-esim-usa/id6468944607) · [Google Play](https://play.google.com/store/apps/details?id=com.activatewireless.phonico) |
+| **Ultimate Mobile: eSIM USA** | Affordable, flexible 5G eSIM plans for travellers and locals | [App Store](https://apps.apple.com/us/app/ultimate-mobile-esim-usa/id6503248959) · [Google Play](https://play.google.com/store/apps/details?id=com.activatewireless.ultimatemobile) |
+| **Muslim Guider** | All-in-one Islamic companion for daily spiritual needs | [App Store](https://apps.apple.com/us/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85-muslim-guider/id1619153442) |
+
+<p align="center"><a href="https://omerjahangir.github.io/#projects"><b>See all projects on my portfolio →</b></a></p>
+
+## 📦 Open-source Flutter packages
+
+| Package | Description | pub.dev |
+| --- | --- | --- |
+| [**flutter_staggered_animations_plus**](https://github.com/OmerJahangir/flutter_staggered_animations_plus) | Staggered animations for ListView, GridView, Column and Row — modernized for Dart 3 & Flutter 3 | [![pub](https://img.shields.io/pub/v/flutter_staggered_animations_plus?color=2196F3&label=pub)](https://pub.dev/packages/flutter_staggered_animations_plus) |
+| [**call_slider_button**](https://github.com/OmerJahangir/call_slider_button) | Customizable incoming-call slider — swipe right to accept, left to decline | [![pub](https://img.shields.io/pub/v/call_slider_button?color=2196F3&label=pub)](https://pub.dev/packages/call_slider_button) |
+| [**bouncing_call_slider**](https://github.com/OmerJahangir/bouncing_call_slider) | Bouncing, haptic call slider — swipe up to answer, down to decline | [![pub](https://img.shields.io/pub/v/bouncing_call_slider?color=2196F3&label=pub)](https://pub.dev/packages/bouncing_call_slider) |
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmerJahangir&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=000515&title_color=E91E63&icon_color=2196F3&text_color=FFFFFF&ring_color=E91E63" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerJahangir&layout=compact&hide_border=true&bg_color=000515&title_color=E91E63&text_color=FFFFFF&langs_count=6" alt="Top languages" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:E91E63&height=110&section=footer" alt="" />
