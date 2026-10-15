@@ -59,8 +59,8 @@ I'm a **Senior Flutter Engineer** with 3+ years of building smooth, responsive, 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmerJahangir&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=000515&title_color=E91E63&icon_color=2196F3&text_color=FFFFFF&ring_color=E91E63" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerJahangir&layout=compact&hide_border=true&bg_color=000515&title_color=E91E63&text_color=FFFFFF&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmerJahangir&show_icons=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs&hide_border=true&bg_color=000515&title_color=E91E63&icon_color=2196F3&text_color=FFFFFF&ring_color=E91E63" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmerJahangir&layout=compact&hide=objective-c,c%2B%2B,cmake,makefile,javascript,html,swift,ruby&hide_border=true&bg_color=000515&title_color=E91E63&text_color=FFFFFF&langs_count=6" alt="Top languages" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:E91E63&height=110&section=footer" alt="" />
